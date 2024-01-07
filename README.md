@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)System.out.println("Bem vindo ao meu github!😆")
+System.out.println("Bem vindo ao meu github!😆")
 
 <hr>
 💻Desenvolvedor Java junior
@@ -10,3 +10,4 @@
 <hr>
 
 Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
+[![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
