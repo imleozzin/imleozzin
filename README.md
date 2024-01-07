@@ -1,5 +1,4 @@
-System.out.println("Bem vindo ao meu github!😆")
-
+<code>System.out.println("Bem vindo ao meu github!😆")</code>
 <hr>
 💻Desenvolvedor Java junior
 
