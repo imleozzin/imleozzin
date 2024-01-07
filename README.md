@@ -1,9 +1,8 @@
 <code>System.out.println("Bem vindo ao meu github!😆")</code>
 <hr>
 💻Desenvolvedor Java junior
-<br />
-📚Estudando Java<br />
-👨‍💻Graduando em Análise e Desenvolvimento de Sistemas na Estácio<br />
+📚Estudando Java
+👨‍💻Graduando em Análise e Desenvolvimento de Sistemas na Estácio
 
 <hr>
 
