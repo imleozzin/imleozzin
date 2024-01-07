@@ -1,4 +1,4 @@
-![Java-Dark](https://github.com/imleozzin/imleozzin/assets/155858887/30dd4736-c50c-43b6-8419-00f74bbd134b)System.out.println("Bem vindo ao meu github!😆")
+System.out.println("Bem vindo ao meu github!😆")
 
 <hr>
 💻Desenvolvedor Java junior
