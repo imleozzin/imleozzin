@@ -3,7 +3,6 @@
 💻Desenvolvedor Java junior
 
 📚Estudando Java
-
 👨‍💻Graduando em Análise e Desenvolvimento de Sistemas na Estácio
 
 <hr>
