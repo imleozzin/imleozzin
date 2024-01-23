@@ -1,6 +1,6 @@
 <code>System.out.println("Bem vindo ao meu github!😆")</code>
 <hr>
-💻Desenvolvedor Web,Java junior
+💻Desenvolvedor Web, Java junior
 <br>
 📚Estudando Java
 <br>
