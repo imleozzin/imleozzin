@@ -10,7 +10,7 @@
 
 Por aqui, você encontrará alguns projetos, usando as seguintes tecnologias: <br>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css&theme=dark)](https://skillicons.dev)
 
 
 
