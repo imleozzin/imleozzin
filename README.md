@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Leonardo Ramalho — Analista de TI | Blue Team / SOC" width="100%" />
+  <img src="banner.svg" alt="Leonardo Ramalho - Analista de TI | Blue Team / SOC" width="100%" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 Sou **Analista de TI Júnior**, com rotina em infraestrutura, suporte e ambientes Windows, em transição para **segurança defensiva (SOC / Blue Team)**.
 
-Aprendo construindo: monto o ambiente do zero, protejo, ataco em laboratório isolado e documento o que foi detectado — e o que passou despercebido.
+Aprendo construindo: monto o ambiente do zero, protejo, ataco em laboratório isolado e documento o que foi detectado - e o que passou despercebido.
 
 ## Projeto em destaque
 
