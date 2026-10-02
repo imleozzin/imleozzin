@@ -17,7 +17,7 @@ Aprendo construindo: monto o ambiente do zero, protejo, ataco em laboratório is
 
 ## Projeto em destaque
 
-### 🛡️ [Nexora Security Lab](https://github.com/imleozzin/nexora-homelab)
+### 🛡️ [Nexora Security Lab](https://github.com/imleozzin/nexora-security-homelab)
 
 Laboratório que simula a rede de uma empresa fictícia de ~40 funcionários, do zero até a resposta a incidentes:
 
