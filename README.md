@@ -1,78 +1,74 @@
-<h1 align="center">Hi 👋, I'm Leonardo Ramalho</h1>
-<h3 align="center">A passionate Analyst I.T from Brazil</h3>
+<p align="center">
+  <img src="banner.svg" alt="Leonardo Ramalho — Analista de TI | Blue Team / SOC" width="100%" />
+</p>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
+<p align="center">
+  <a href="https://www.linkedin.com/in/leonardo-ramalho-/"><img src="https://img.shields.io/badge/LinkedIn-leonardo--ramalho-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://tryhackme.com/p/Imleozin"><img src="https://img.shields.io/badge/TryHackMe-Imleozin-C11111?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" /></a>
+  <img src="https://img.shields.io/badge/Brasil-S%C3%A3o%20Paulo-238636?style=flat-square" alt="São Paulo, Brasil" />
+  <img src="https://img.shields.io/badge/Aberto%20a-SOC%20%2F%20Seguran%C3%A7a%20Jr-1f6feb?style=flat-square" alt="Aberto a vagas de SOC / Segurança Júnior" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imleozzin&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+## Sobre
 
-- 👨‍💻 I'm currently working on Analyst IT and Studyng Cybersecurity.
+Sou **Analista de TI Júnior**, com rotina em infraestrutura, suporte e ambientes Windows, em transição para **segurança defensiva (SOC / Blue Team)**.
 
-- ⚡ Fun fact **I am funny😅**
+Aprendo construindo: monto o ambiente do zero, protejo, ataco em laboratório isolado e documento o que foi detectado — e o que passou despercebido.
 
-<h3 align="left">Connect with me:</h3>
-<div data-importer="socials" align="left">
-  <a href="https://www.linkedin.com/in/leonardo-ramalho-/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-  </a>
+## Projeto em destaque
 
-  <a href="https://tryhackme.com/p/Imleozin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"/>
-  </a>
-</div>
+### 🛡️ [Nexora Security Lab](https://github.com/imleozzin/nexora-homelab)
 
+Laboratório que simula a rede de uma empresa fictícia de ~40 funcionários, do zero até a resposta a incidentes:
 
-<h3 align="left">Languages and Tools:</h3>
-<div data-importer="techs" align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="40" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-</div>
+**construir → proteger → monitorar → atacar → detectar → responder**
 
-<div class="text-center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=imleozzin&theme=xcode&hide_border=true" alt="Activity graph" />
-   </a>
-</div>
-<div class="text-center">
-        <img src="https://github-readme-stats.vercel.app/api?username=imleozzin&show_icons=true&line_height=33&count_private=true&theme=dark" alt="imleozzin's GitHub Stats" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imleozzin&&hide=cmake&langs_count=4&line_height=45&theme=dark" />
-    </a>
-</div>
-<div class="text-center">   
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=imleozzin&line_height=45&theme=dark" />
-   </a>
-</div>
-<div class="text-center">
-        <img align="center" alt="Stars" src="https://img.shields.io/github/stars/imleozzin?label=Stars" />
-    </a>
-</div>
-<br />
+| Etapa | O que foi feito |
+|---|---|
+| Rede | pfSense roteando 4 zonas isoladas (Servidores, Usuários, Segurança, Ataque) com regras de menor privilégio |
+| Identidade | Active Directory em Windows Server 2025: OUs, usuários, grupos, DNS e scripts PowerShell |
+| Hardening | GPOs de endurecimento (bloqueio de conta, auditoria avançada) e proteção das estações |
+| Monitoramento | Wazuh como SIEM + Sysmon nos endpoints, com coleta de logs Windows e Linux |
+| Ataque | Cenários executados a partir de um Kali em zona sem internet, mapeados no MITRE ATT&CK |
+| Resposta | Relatórios de incidente com timeline, evidências, contenção e lições aprendidas |
 
+> Tudo é ambiente de laboratório: os ataques têm como alvo apenas máquinas do próprio lab, em rede isolada.
 
+## Stack
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imleozzin/imleozzin/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imleozzin/imleozzin/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/imleozzin/imleozzin/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+**No trabalho**
+
+![Windows](https://img.shields.io/badge/Windows-0d1117?style=flat-square)
+![Suporte e troubleshooting](https://img.shields.io/badge/Suporte%20e%20troubleshooting-0d1117?style=flat-square)
+![Infraestrutura](https://img.shields.io/badge/Infraestrutura-0d1117?style=flat-square)
+![Redes TCP/IP](https://img.shields.io/badge/Redes%20TCP%2FIP-0d1117?style=flat-square)
+![Hardware](https://img.shields.io/badge/Hardware-0d1117?style=flat-square)
+
+**No laboratório**
+
+![Active Directory](https://img.shields.io/badge/Active%20Directory-1f6feb?style=flat-square)
+![GPO](https://img.shields.io/badge/GPO-1f6feb?style=flat-square)
+![Windows Server](https://img.shields.io/badge/Windows%20Server%202025-1f6feb?style=flat-square)
+![pfSense](https://img.shields.io/badge/pfSense-1f6feb?style=flat-square&logo=pfsense&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-1f6feb?style=flat-square)
+![Sysmon](https://img.shields.io/badge/Sysmon-1f6feb?style=flat-square)
+![PowerShell](https://img.shields.io/badge/PowerShell-1f6feb?style=flat-square)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-1f6feb?style=flat-square&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-1f6feb?style=flat-square&logo=kalilinux&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware%20Workstation-1f6feb?style=flat-square)
+
+**Estudando**
+
+![Python](https://img.shields.io/badge/Python-238636?style=flat-square&logo=python&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-238636?style=flat-square)
+![ISC2 CC](https://img.shields.io/badge/ISC2%20CC-238636?style=flat-square)
+
+## Agora
+
+- 🎯 Buscando a primeira oportunidade em **SOC / Blue Team / Segurança da Informação (Júnior)**
+- 📚 Preparando a certificação **ISC2 Certified in Cybersecurity (CC)**
+- 🧪 Praticando investigação e detecção no TryHackMe e no meu lab
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/leonardo-ramalho-/) · [TryHackMe](https://tryhackme.com/p/Imleozin)
